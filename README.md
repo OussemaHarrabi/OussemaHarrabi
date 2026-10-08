@@ -68,19 +68,53 @@ I am also a **hackathon hunter with more than 10 podium finishes**. I use compet
       <sub>KANZ · 2026</sub>
     </td>
     <td align="center" width="33%">
+      <h3>🥉 3rd / 85 teams</h3>
+      <strong>Vectors in Orbit</strong><br />
+      <sub>Credit Courtroom · 2026</sub>
+    </td>
+    <td align="center" width="33%">
       <h3>🥉 3rd Place</h3>
       <strong>Hack4UCAR</strong><br />
       <sub>UCAR Intelligence Platform · 2026</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
-      <h3>🛰️ Top 3 / 85+</h3>
-      <strong>Vectors in Orbit</strong><br />
-      <sub>Credit Courtroom · 2026</sub>
+      <h3>🥇 1st Place</h3>
+      <strong>S4S</strong><br />
+      <sub>Sustainability & environmental technology</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🥇 1st Place</h3>
+      <strong>EarthNa Hackathon</strong><br />
+      <sub>Climate & sustainability innovation</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🥈 2nd Place</h3>
+      <strong>Climadapt Hackathon</strong><br />
+      <sub>OpenGeoAI for Climate Action</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🥈 2nd Place</h3>
+      <strong>ZEN Challenge</strong><br />
+      <sub>TSYP 12</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>4th Place</h3>
+      <strong>Out of the Brief</strong><br />
+      <sub>ENIT · NUVO project</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏆 10+ Podiums</h3>
+      <strong>National & international</strong><br />
+      <sub>AI · fintech · climate · product</sub>
     </td>
   </tr>
 </table>
 
-These are selected documented results from a broader record of **10+ national and international podium finishes** across AI, fintech, climate, energy, institutional data, and product challenges.
+These are selected results from a broader record of **more than 10 national and international podium finishes** across AI, fintech, climate, energy, institutional data, and product challenges.
 
 ## What I care about
 
