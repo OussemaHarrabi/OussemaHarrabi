@@ -8,9 +8,17 @@
   <a href="https://github.com/OussemaHarrabi?tab=repositories"><img src="https://img.shields.io/badge/Work-Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-production%20%26%20research-0369A1?style=flat-square" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Hackathon%20Hunter-10%2B%20podium%20finishes-F59E0B?style=flat-square" alt="Hackathon hunter with more than 10 podium finishes" />
+  <img src="https://img.shields.io/badge/PFE-February%202027-0F766E?style=flat-square" alt="Available for a PFE from February 2027" />
+</p>
+
 I build AI systems that must **reason over evidence, survive real constraints, and explain what they did**. I currently work with **FundU** on agentic AI for investor data rooms and evidence-grounded document analysis while completing an Engineering Degree in ICT, Artificial Intelligence & Data at **SUP'COM, University of Carthage**.
 
 My work sits between applied research and product engineering: agent security, evaluation, multimodal and retrieval systems, efficient deep learning, and the infrastructure needed to test them honestly.
+
+I am also a **hackathon hunter with more than 10 podium finishes**. I use competitions as compressed product-and-research cycles: understand an unfamiliar problem quickly, choose a defensible technical approach, build the system, measure it, and communicate the result under pressure.
 
 > **Open to a PFE / end-of-studies internship from February 2027** in AI engineering or applied ML research. Ready to relocate across Europe.
 
@@ -50,6 +58,30 @@ My work sits between applied research and product engineering: agent security, e
   <a href="https://github.com/OussemaHarrabi/skills-gap-analysis"><img src="https://img.shields.io/badge/UtopiaHire-NLP%20skills%20analysis-0F766E?style=flat-square" alt="UtopiaHire" /></a>
 </p>
 
+## Hackathon record
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🥇 1st Prize</h3>
+      <strong>IHEC CodeLab 2.0</strong><br />
+      <sub>KANZ · 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🥉 3rd Place</h3>
+      <strong>Hack4UCAR</strong><br />
+      <sub>UCAR Intelligence Platform · 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛰️ Top 3 / 85+</h3>
+      <strong>Vectors in Orbit</strong><br />
+      <sub>Credit Courtroom · 2026</sub>
+    </td>
+  </tr>
+</table>
+
+These are selected documented results from a broader record of **10+ national and international podium finishes** across AI, fintech, climate, energy, institutional data, and product challenges.
+
 ## What I care about
 
 | Direction | Questions I am working on |
@@ -59,17 +91,31 @@ My work sits between applied research and product engineering: agent security, e
 | **Evidence-grounded AI** | How can retrieval and structured reasoning keep decisions connected to the documents, policies, and observations that support them? |
 | **Research that ships** | Can an experiment remain reproducible while becoming a tested API, usable interface, observable service, and clear technical report? |
 
+## Projects I want to work on
+
+I am most interested in projects where the research question and the deployed system strengthen each other:
+
+- **Reliable and secure AI agents:** tool-use safety, provenance, policy enforcement, long-horizon evaluation, observability, and human control.
+- **Deep-learning research:** efficient transformers, quantization, low-rank methods, multimodal learning, reinforcement learning, and reproducible paper extensions.
+- **Evidence-grounded intelligence:** scientific and technical document understanding, advanced RAG, knowledge graphs, explainable decision systems, and multilingual NLP.
+- **AI with a real operational or social use case:** fintech, healthcare administration, education, climate and water, entrepreneurship, and Arabic/French/Tunisian-language systems.
+
+I especially value projects with an accessible dataset, measurable baselines, honest ablations, deployable artifacts, and room for an original research contribution.
+
 ## Engineering toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,docker,git,githubactions,ts,nextjs,react,linux&perline=11" alt="Python, PyTorch, FastAPI, PostgreSQL, Docker, Git, GitHub Actions, TypeScript, Next.js, React and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,supabase,redis,docker,git,githubactions,ts,nextjs,react,linux&perline=13" alt="Python, PyTorch, FastAPI, PostgreSQL, Supabase, Redis, Docker, Git, GitHub Actions, TypeScript, Next.js, React and Linux" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-agent%20orchestration-1F2937?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/🤗%20Transformers-model%20research-FFD21E?style=flat-square&labelColor=111827" alt="Hugging Face Transformers" />
   <img src="https://img.shields.io/badge/Pydantic-typed%20contracts-E92063?style=flat-square" alt="Pydantic" />
   <img src="https://img.shields.io/badge/Qdrant-vector%20retrieval-DC244C?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Neo4j-knowledge%20graphs-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
   <img src="https://img.shields.io/badge/pgvector-semantic%20search-336791?style=flat-square" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Ollama-local%20models-111827?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/ML%20evaluation-reproducible%20evidence-0F766E?style=flat-square" alt="ML evaluation" />
 </p>
 
@@ -96,7 +142,7 @@ My work sits between applied research and product engineering: agent security, e
 ## Beyond the repository
 
 - AI engineering at **FundU**, working on permission-scoped retrieval, document ingestion, tool orchestration, and evidence-linked analysis.
-- **National Student-Entrepreneur**, with projects shaped around practical and hackathon-defined problems.
+- **Hackathon hunter with 10+ podium finishes** and a National Student-Entrepreneur, with projects shaped around practical and challenge-defined problems.
 - Applied-AI and MVP workshop experience with engineering students.
 - Arabic native, French advanced/professional, English B2.
 

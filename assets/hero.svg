@@ -68,5 +68,8 @@
     <text x="58" y="275">EVIDENCE</text>
     <text x="1064" y="275">SYSTEMS</text>
   </g>
+  <g text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="600" y="279" fill="#FBBF24" font-size="12" font-weight="650" letter-spacing="2.2">HACKATHON HUNTER · 10+ PODIUM FINISHES</text>
+  </g>
   <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" stroke="url(#accent)" stroke-opacity="0.32" stroke-width="1.5"/>
 </svg>
