@@ -16,6 +16,11 @@
 
 I build AI systems that must **reason over evidence, survive real constraints, and explain what they did**. I currently work with **FundU** on agentic AI for investor data rooms and evidence-grounded document analysis while completing an Engineering Degree in ICT, Artificial Intelligence & Data at **SUP'COM, University of Carthage**.
 
+<p align="center">
+  <strong>SUP'COM · University of Carthage · Tunisia</strong><br />
+  <a href="mailto:oussema.harrabi@supcom.tn">oussema.harrabi@supcom.tn</a>
+</p>
+
 My work sits between applied research and product engineering: agent security, evaluation, multimodal and retrieval systems, efficient deep learning, and the infrastructure needed to test them honestly.
 
 I am also a **hackathon hunter with more than 10 podium finishes**. I use competitions as compressed product-and-research cycles: understand an unfamiliar problem quickly, choose a defensible technical approach, build the system, measure it, and communicate the result under pressure.
@@ -40,9 +45,10 @@ I am also a **hackathon hunter with more than 10 podium finishes**. I use compet
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/OussemaHarrabi/SpectraQuant">SpectraQuant</a> <sup>research in progress</sup></h3>
-      <p><strong>Budget-aware low-rank and low-bit transformer research.</strong> Investigating whether output-aware sensitivity can allocate ranks and bit widths that improve the quality–memory frontier over uniform compression at equal budget.</p>
+      <h3><a href="https://github.com/OussemaHarrabi/SpectraQuant">SpectraQuant</a></h3>
+      <p><strong>Reproducible transformer-compression research.</strong> A completed study of low-rank/low-bit allocation, joint-model error and activation-weighted INT4 clipping across two architectures and two domains, with frozen protocols, verified checkpoints and a public technical report.</p>
       <p><code>PyTorch</code> <code>Quantization</code> <code>Low-rank Methods</code> <code>Hydra</code> <code>Cloud GPU</code></p>
+      <p><sub>Activation-weighted controls reduced reserved C4 perplexity by 5.75–7.70% at identical checkpoint bytes. The primary transfer gate failed, and Pythia PG19 regressed; all results and limitations are documented.</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/OussemaHarrabi/BMO">BMO</a></h3>
